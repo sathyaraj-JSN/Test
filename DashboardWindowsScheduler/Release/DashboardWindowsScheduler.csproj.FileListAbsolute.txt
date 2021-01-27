@@ -1,0 +1,36 @@
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DashboardWindowsScheduler.exe.config
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DashboardWindowsScheduler.exe.manifest
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DashboardWindowsScheduler.application
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DashboardWindowsScheduler.exe
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DashboardWindowsScheduler.pdb
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DataAccessHandler.dll
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\Newtonsoft.Json.dll
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\Oracle.ManagedDataAccess.dll
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DataAccessHandler.pdb
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DataAccessHandler.dll.config
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\Newtonsoft.Json.xml
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.csprojAssemblyReference.cache
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.csproj.CoreCompileInputs.cache
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.exe.manifest
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.application
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.csproj.CopyComplete
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.exe
+F:\Kotak Live\Web App\Windows Scheduler\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.pdb
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DashboardWindowsScheduler.exe.config
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DashboardWindowsScheduler.exe.manifest
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DashboardWindowsScheduler.application
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DashboardWindowsScheduler.exe
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DashboardWindowsScheduler.pdb
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DataAccessHandler.dll
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\Newtonsoft.Json.dll
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\Oracle.ManagedDataAccess.dll
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DataAccessHandler.pdb
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\DataAccessHandler.dll.config
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\bin\Release\Newtonsoft.Json.xml
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.csprojAssemblyReference.cache
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.csproj.CoreCompileInputs.cache
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.exe.manifest
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.application
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.csproj.CopyComplete
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.exe
+G:\KMBL_V2\KMBLAdminV2\DashboardWindowsScheduler\DashboardWindowsScheduler\obj\Release\DashboardWindowsScheduler.pdb
