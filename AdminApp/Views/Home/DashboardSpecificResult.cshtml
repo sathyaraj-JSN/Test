@@ -1,0 +1,320 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Kotak Mahindra Bank">
+    <meta name="keywords" content="Kotak Mahindra Bank">
+    <title>Kotak Mahindra Bank</title>
+
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link href="~/dashboard_assets/css/user_style.css" rel="stylesheet" />
+
+    <!-- Site favicon -->
+    <link rel='shortcut icon' type='image/x-icon' href='~/Audit_assets/images/kotak_favicon.ico' />
+
+    <!-- Font Material stylesheet -->
+    <link rel="stylesheet" href="~/Audit_assets/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
+
+    <!-- Bootstrap stylesheet -->
+    <link rel="stylesheet" href="~/Audit_assets/css/jumbo-bootstrap.css">
+
+    <!-- Perfect Scrollbar stylesheet -->
+    <link href="~/Audit_assets/node_modules/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet">
+
+    <!-- kotak-core stylesheet -->
+    <link href="~/Audit_assets/css/kotak-core.min.css" rel="stylesheet" />
+
+    <!-- Color-Theme stylesheet -->
+    <link id="override-css-id" href="~/Audit_assets/css/theme-dark-indigo.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="~/dashboard_assets/datatables/datatables.min.css">
+    <link rel="stylesheet" href="~/dashboard_assets/datatables/DataTables-1.10.16/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/dashboard_assets/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/dashboard_assets/css/font-awesome.min.css">
+
+</head>
+<body id="body" data-theme="dark-indigo">
+    <!-- Loader Backdrop -->
+    <div class="loader-backdrop">
+        <!-- Loader -->
+        <div class="loader">
+            <svg class="circular" viewBox="25 25 50 50">
+                <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"></circle>
+            </svg>
+        </div>
+        <!-- /loader-->
+    </div>
+    <!-- loader backdrop -->
+    <!-- Page container -->
+    <div class="gx-container">
+        <!-- Page Sidebar -->
+        <div id="menu" class="side-nav gx-sidebar">
+            <div class="navbar-expand-lg">
+                <!-- Sidebar header  -->
+                <div class="sidebar-header">
+                    <div class="user-profile">
+                        <img class="img-responsive logo_side_bar" alt="Kotak_Logo" src="~/Audit_assets/images/logo_side_bar.png">
+                    </div>
+                </div>
+                <!-- /sidebar header -->
+                <!-- Main navigation -->
+                <div id="main-menu" class="main-menu navbar-collapse collapse">
+                    <ul class="nav-menu">
+
+                        @if (ViewBag.Status == "Success")
+                        {
+                            <li class="menu no-arrow selected">
+                                <a href="/Home/Dashboard/">
+                                    <span class="nav-text">Dashboard Success Report</span>
+                                </a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="menu no-arrow">
+                                <a href="/Home/Dashboard/">
+                                    <span class="nav-text">Dashboard Success Report</span>
+                                </a>
+                            </li>
+                        }
+                        @if (ViewBag.Status == "Failure")
+                        {
+                            <li class="menu no-arrow selected">
+                                <a href="/Home/Dashboard_Failure/">
+                                    <span class="nav-text">Dashboard Failure Report</span>
+                                </a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="menu no-arrow">
+                                <a href="/Home/Dashboard_Failure/">
+                                    <span class="nav-text">Dashboard Failure Report</span>
+                                </a>
+                            </li>
+                        }
+                        <li class="menu no-arrow">
+                            <a href="/Home/Index/">
+                                <span class="nav-text">Audit Log</span>
+                            </a>
+                        </li>
+                        <li class="menu no-arrow">
+                            <a href="/Home/Clearcrn/">
+                                <span class="nav-text">Clear CRN</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /main navigation -->
+            </div>
+        </div>
+        <!-- /page sidebar -->
+        <!-- Main Container -->
+        <div class="gx-main-container">
+            <!-- Main Header -->
+            <header class="main-header">
+                <div class="gx-toolbar">
+                    <div class="sidebar-mobile-menu d-block d-lg-none">
+                        <a class="gx-menu-icon menu-toggle" href="#menu">
+                            <span class="menu-icon"></span>
+                        </a>
+                    </div>
+                    <ul class="quick-menu header-notifications ml-auto">
+                        <li class="dropdown">
+                            <a href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" class="d-inline-block" aria-expanded="true">
+                                <div class="user-thumb">
+                                    <img alt="My Profile Image" src="~/Audit_assets/images/domnic-brown.jpg"
+                                         class="rounded-circle size-40 user-avatar"><i class="fa fa-angle-down fa_Size"></i>
+                                </div>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right" data-placement="bottom-end" data-x-out-of-boundaries="">
+                                <div class="dropdown-menu-perfectscrollbar1">
+                                    <div class="messages-list">
+                                        <ul class="list-unstyled">
+                                            <li class="media">
+                                                <div class="user-thumb">
+                                                    <i class="fa fa-lock fa_color"></i>
+                                                </div>
+                                                <div class="media-body">
+                                                    <div class="d-flex justify-content-between align-items-center">
+                                                        <h4 class="text-capitalize user-name mb-0">
+                                                            <button id="logout_btn">Logout</button>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </header>
+            <!-- /main header -->
+            <div class="kotak-main-content">
+                <div class="content">
+                    <div class="container-fluid">
+                        <div class="top_header">
+                            <div class="row">
+                                <div class="col-12 col-sm-12 col-xs-12 text-left">
+                                    <h1>Kotak Facial Recognition @ViewBag.Chennal @ViewBag.Status  @ViewBag.Event Report</h1>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table" id="datatable">
+                                <thead>
+                                    <tr>
+                                        <th>CRN</th>
+                                        <th>Created Date</th>
+                                        <th>Resulst Reason</th>
+                                        <th>Version</th>
+                                        @if (ViewBag.Status == "Failure")
+                                        {
+                                            <th>Verification Action</th>
+                                            <th>Failed At</th>
+                                        }
+                                        <th>Device Detail</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var sd in Model.DashData)
+                                    {
+                                    <tr>
+                                        <td>@sd.CRN</td>
+                                        <td>@sd.CreatedOn</td>
+                                        <td>@sd.ResulstReason</td>
+                                        <td>@sd.Version</td>
+                                        @if (ViewBag.Status == "Failure")
+                                        {
+                                            <td>
+                                                @if (!String.IsNullOrEmpty(sd.ResulstReason))
+                                                {
+                                                    <div class="buttons">
+                                                        <div class="form-group">
+                                                            <button type="submit" name="SubmitBut" onclick="CallVerify(event,'@sd.ObjectId', '@sd.CRN','@ViewBag.Event')" class="SubmitBtn btn btn-info text-dark" data-loading-text="<i class='fa fa-spinner fa-spin '></i> Loading..">
+                                                                VERIFY
+                                                            </button>
+                                                        </div>
+                                                    </div>
+                                                }
+                                            </td>
+
+                                            if (sd.ResulstReason == "Invalid Face" || sd.ResulstReason == "Sun Glass" || sd.ResulstReason == "Invalid Angle" || sd.ResulstReason == "Face not detected" || sd.ResulstReason == "Face mismatch")
+                                            {
+                                                <td>Gate 1</td>
+                                            }
+                                            else if (sd.ResulstReason == "Fake")
+                                            {
+                                                <td>Gate 2</td>
+                                            }
+                                            else if (sd.ResulstReason == "Not Raise Hand" || sd.ResulstReason == "Not Smile")
+                                            {
+                                                <td>Gate 3</td>
+                                            }
+                                            else if (sd.ResulstReason == "Azure Registration Failed" || sd.ResulstReason == "Azure Verification Failed")
+                                            {
+                                                <td>Azure</td>
+                                            }
+                                            else
+                                            {
+                                                <td></td>
+                                            }
+                                        }
+                                        <td>@sd.DeviceDetails</td>
+                                    </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <br>
+                    <footer class="gx-footer page_header">
+                        <div class="d-flex flex-row justify-content-between">
+                            <p> Copyright Kotak Mahindra Bank Limited. © 2019</p>
+                        </div>
+                    </footer>
+
+                </div>
+            </div>
+        </div>
+        <!-- /main container -->
+    </div>
+    <!-- /page container -->
+    <!-- Menu Backdrop -->
+    <div id="alert_popup_div"></div>
+    <!--Load JQuery-->
+    <script src="~/Audit_assets/node_modules/jquery/dist/jquery.min.js"></script>
+    <!--Bootstrap JQuery-->
+    <script src="~/Audit_assets/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!--Perfect Scrollbar JQuery-->
+    <script src="~/Audit_assets/node_modules/perfect-scrollbar/dist/perfect-scrollbar.min.js"></script>
+    <!--Big Slide JQuery-->
+    <script src="~/Audit_assets/node_modules/bigslide/dist/bigSlide.min.js"></script>
+    <!--Dashboard JS-->
+    <script src="~/dashboard_assets/js/functions.js"></script>
+    <!--DataTable JS-->
+    <script src="~/dashboard_assets/datatables/datatables.min.js"></script>
+    <script src="~/dashboard_assets/datatables/DataTables-1.10.16/js/dataTables.bootstrap4.min.js"></script>
+
+    <script> 
+        function CallVerify(event,ObjectId, CRN,Event) {
+            //console.log(event);
+            let but = event.currentTarget;            
+            $(".SubmitBtn").prop('disabled', true);
+            but.innerHTML=but.getAttribute("data-loading-text");            
+            let send_data = JSON.stringify({ ObjectId: ObjectId, CRN: CRN, Event: Event });
+            $.ajax({
+                type: "POST",
+                contentType: "application/json",
+                datatype: "json",
+                data: send_data,
+                url: "/Home/DoVerification",
+                success: function (response) {                    
+                    //let json = JSON.parse(response);
+                    //console.log(response);
+                    if (response.StatusCode == 200) {
+                        Modalbox(response.Message, response.Image);
+                    }
+                    else {
+                        ErrorModalbox(response.Message);
+                    }
+                    
+                    //console.log(response.StatusCode);
+                    but.innerHTML = "VERIFY";
+                    $(".SubmitBtn").prop('disabled', false);                },
+                error: function (response) {
+                    ErrorModalbox("Something went wrong");
+                    but.innerHTML = "VERIFY";
+                    $(".SubmitBtn").prop('disabled', false);
+                }
+            });
+        }
+        function ErrorModalbox(message) {
+            let html = '<div class="modal show" id="alert_popup" role="dialog" data-keyboard="false" data-backdrop="static"><div class="modal-dialog"><div class="modal-content"><div class="modal-body"><h4 class="text-center" >' + message + '</h4><br><center><button type="button" id="modalButton" class="btn btn-primary"> Okay </button></center></div></div></div></div>';
+
+            document.getElementById("alert_popup_div").innerHTML = html;
+            $('#alert_popup').modal('show');
+            $("#modalButton").click(function () {
+                $('#alert_popup').modal('hide');
+            });
+        }
+
+        function Modalbox(message, image) {
+            let html = '<div class="modal show" id="alert_popup" role="dialog" data-keyboard="false" data-backdrop="static"><div class="modal-dialog"><div class="modal-content"><div style="display:table-cell; vertical-align:middle; text-align:center;" class="modal-body"><img style="max-width: 375px;" src="' + image+'"><br><br><h4 class="text-center" >' + message + '</h4><br><center><button type="button" id="modalButton" class="btn btn-primary"> Okay </button></center></div></div></div></div>';
+
+            document.getElementById("alert_popup_div").innerHTML = html;
+            $('#alert_popup').modal('show');            
+            $("#modalButton").click(function () {
+                $('#alert_popup').modal('hide');
+            });
+        }
+
+        $("#datatable").dataTable({ "aaSorting": [] });
+    </script>
+ 
+</body>
+</html>
