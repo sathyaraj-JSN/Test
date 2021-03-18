@@ -154,6 +154,7 @@
                         <input type="hidden" id="gate_value" name="gate_value" value="@ViewBag.gf" />
                         <input type="hidden" id="from_date_value" name="from_date_value" value="@ViewBag.f" />
                         <input type="hidden" id="to_date_value" name="to_date_value" value="@ViewBag.t" />
+                        <input type="hidden" id="version_value" name="version_value" value="@ViewBag.version" />
 
                         <div class="row page_header">
                             <div class="offset-md-6 col-md-3 offset-sm-6 col-sm-3">
@@ -187,7 +188,7 @@
                                                             <option selected disabled>Select Events</option>
                                                             @foreach (var med in Model.MasterEventsFetch)
                                                             {
-                                                            <option value="@med.EVENT_ID">@med.EVENT_NAME</option>
+                                                                <option value="@med.EVENT_ID">@med.EVENT_NAME</option>
                                                             }
                                                         </select>
                                                     </div>
@@ -199,10 +200,23 @@
                                                             <option selected disabled>Select Status</option>
                                                             @foreach (var msd in Model.MasterStatusFetch)
                                                             {
-                                                            <option value="@msd.status_id">@msd.status_name</option>
+                                                                <option value="@msd.status_id">@msd.status_name</option>
                                                             }
                                                         </select>
                                                     </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">Version</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <select class="text_font form-control" id="version_filter" name="version">
+                                                            <option selected disabled>Select Version</option>
+                                                            @foreach (var ver in Model.Versions)
+                                                            {
+                                                                <option value="@ver.version">@ver.version</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-md-12 col-sm-12 col-lg-12">
@@ -230,7 +244,7 @@
                                                             <option selected disabled>Select Gate</option>
                                                             @foreach (var mgf in Model.MasterGateFetch)
                                                             {
-                                                            <option value="@mgf.GATE_NUMBER">Gate @mgf.GATE_NUMBER</option>
+                                                                <option value="@mgf.GATE_NUMBER">Gate @mgf.GATE_NUMBER</option>
                                                             }
                                                         </select>
                                                     </div>
@@ -266,6 +280,7 @@
                                                         <th style="visibility: hidden;"></th>
                                                         <th>CRN</th>
                                                         <th>Event</th>
+                                                        <th>Version</th>
                                                         <th>Transaction Status</th>
                                                         <th>Gate Failure</th>
                                                         <th>Score</th>
@@ -277,8 +292,8 @@
 
                                                 @if (Model.AuditLogFetch.Count > 0)
                                                 {
-                                                foreach (var ad in Model.AuditLogFetch)
-                                                {
+                                                    foreach (var ad in Model.AuditLogFetch)
+                                                    {
                                                 <tr class="odd" id="@ad.AuditID">
                                                     <td class="expand_arrow details-control offset_class" id="@ad.AuditID" expand_audit_id="@ad.ParentTransactionID" get_event_name="@ad.EventName"><span id="arrow_@ad.AuditID"><i class="fa fa-angle-right" aria-hidden="true"></i></span></td>
                                                     <td>@ad.CRN</td>
@@ -286,60 +301,61 @@
                                                         @ad.EventName
                                                     </td>
                                                     <td>@ad.StatusName</td>
+                                                    <td>@ad.Version</td>
                                                     <td>
                                                         @if (ad.StatusName == "Failure")
                                                         {
-                                                        @ad.GateNumber
+                                                            @ad.GateNumber
                                                         }
                                                     </td>
                                                     <td>
                                                         @if (ad.EventName == "Verification")
                                                         {
-                                                        @ad.Score
+                                                            @ad.Score
                                                         }
                                                     </td>
                                                     <td>@ad.ChannelName</td>
                                                     <td>@ad.DeviceDetails</td>
                                                     <td>@ad.CreatedOn.AddMinutes(330)</td>
                                                 </tr>
-                                                <tr class="even" id="even_@ad.AuditID">
-                                                    <td style="visibility:hidden;"></td>
-                                                    <td colspan="8">
-                                                        <div class="container-fluid">
-                                                            <div class="row">
-                                                                <div class="col-md-12 col-lg-12 col-xs-12 col-sm-12">
-                                                                    <table class="table table-hover" style="border:hidden;" id="even_sub_@ad.AuditID">
-                                                                        <thead>
-                                                                            <tr>
-                                                                                <td><p class="expand_header">User Image</p></td>
-                                                                                <td><p class="expand_header">Gate #</p></td>
-                                                                                <td><p class="expand_header">JSON</p></td>
-                                                                                <td><p class="expand_header">Status</p></td>
-                                                                            </tr>
-                                                                        </thead>
-                                                                    </table>
+                                                        <tr class="even" id="even_@ad.AuditID">
+                                                            <td style="visibility:hidden;"></td>
+                                                            <td colspan="8">
+                                                                <div class="container-fluid">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12 col-lg-12 col-xs-12 col-sm-12">
+                                                                            <table class="table table-hover" style="border:hidden;" id="even_sub_@ad.AuditID">
+                                                                                <thead>
+                                                                                    <tr>
+                                                                                        <td><p class="expand_header">User Image</p></td>
+                                                                                        <td><p class="expand_header">Gate #</p></td>
+                                                                                        <td><p class="expand_header">JSON</p></td>
+                                                                                        <td><p class="expand_header">Status</p></td>
+                                                                                    </tr>
+                                                                                </thead>
+                                                                            </table>
+                                                                        </div>
+                                                                    </div>
                                                                 </div>
-                                                            </div>
-                                                        </div>
-                                                    </td>
-                                                </tr>
-                                                }
+                                                            </td>
+                                                        </tr>
+                                                    }
 
                                                 }
                                                 else
                                                 {
-                                                <tr><td colspan="9"><p style="text-align: center;">No data available</p></td></tr>
+                                                    <tr><td colspan="9"><p style="text-align: center;">No data available</p></td></tr>
                                                 }
 
                                             </table>
                                             @if (Model.AuditLogFetch.Count > 0)
                                             {
-                                            <div class="pull-left">
-                                                <p id="showing_content">Showing @Model.AuditLogFetch.Count of <span id="total_records_showing"></span>Records</p>
-                                            </div>
-                                            <nav aria-label="Page navigation example">
-                                                <ul class="pagination pull-right ul_list" id="pagination_ul"></ul>
-                                            </nav>
+                                                <div class="pull-left">
+                                                    <p id="showing_content">Showing @Model.AuditLogFetch.Count of <span id="total_records_showing"></span>Records</p>
+                                                </div>
+                                                <nav aria-label="Page navigation example">
+                                                    <ul class="pagination pull-right ul_list" id="pagination_ul"></ul>
+                                                </nav>
                                             }
                                         </div>
                                     </div>

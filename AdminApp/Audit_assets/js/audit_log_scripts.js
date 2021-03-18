@@ -19,6 +19,7 @@ $(document).ready(function () {
     var hidden_from_date_value = $('#from_date_value').val();
     var hidden_from_date_value = $('#from_date_value').val();
     var hidden_to_date_value = $('#to_date_value').val();
+    var hidden_version = $('#version_value').val();
 
 
     if (hidden_from_date_value == "") {
@@ -31,7 +32,7 @@ $(document).ready(function () {
     } else {
         compare_date2 = hidden_from_date_value;
     }
-    if (hidden_crn_value != "" || hidden_event_value != "" || hidden_status_value != "" || hidden_gate_value != "" || compare_date1 != today || compare_date2 != today) {
+    if (hidden_crn_value != "" || hidden_event_value != "" || hidden_status_value != "" || hidden_gate_value != "" || compare_date1 != today || compare_date2 != today || hidden_version!="") {
         if ($('#collapseExample').hasClass("show")) {
             $('#collapseExample').removeClass("show");
         }
@@ -45,6 +46,7 @@ $(document).ready(function () {
     //}
 
 
+    
     if (hidden_crn_value != "") {
         $('#cf').val(hidden_crn_value);
     }
@@ -68,6 +70,9 @@ $(document).ready(function () {
     }
     else {
         $('#to_date_filter').val(today);
+    }
+    if (hidden_version != "") {
+        $('#version_filter').val(hidden_version);
     }
 
     // Add event listener for opening and closing details
