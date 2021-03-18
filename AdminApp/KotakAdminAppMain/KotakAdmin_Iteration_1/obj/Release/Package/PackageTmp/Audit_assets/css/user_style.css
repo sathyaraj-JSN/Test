@@ -1,0 +1,394 @@
+td.details-control {
+    cursor: pointer;
+}
+.fa_color
+{
+  color: red;
+}
+.fa_Size
+{
+  font-size: 17px;
+  padding-left: 3px;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.logo_side_bar
+{
+  width: 80%;
+    padding: 10px;
+}
+.login_right_side_background
+{
+   /* The image used */
+  background-image: url("../images/ezgif-4-52e17310f8d0.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: inherit;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+tfoot input {
+    width: 100%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+
+.expand_header {
+    font-weight: bolder;
+}
+
+.expand_margin {
+    margin-left: 18px;
+}
+
+.date_range_label {
+    font-weight: bolder;
+}
+
+.card_pointer {
+    cursor: pointer;
+}
+
+#filter_date_err_msg {
+    font-size: 12px;
+    color: red;
+}
+
+.cam_css {
+    width: 100%;
+}
+
+.registration_msg {
+    text-align: center;
+    font-size: 13px;
+    margin-top: 20px;
+}
+.clearcrn_msg {
+    text-align: center;
+    font-size: 13px;
+}
+
+.img_border_pass {
+    border: 5px solid green;
+}
+
+.img_border_fail {
+    border: 5px solid red;
+}
+
+.verify_msg {
+    text-align: center;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+#capture_img_btn {
+    background: #013567;
+    color: white;
+    width: 56%;
+}
+#register_btn
+{
+  background: #013567;
+    color: white;
+    width: 46%;
+}
+#capture_img_btn_verify {
+    background: #013567;
+    color: white;
+    width: 56%;
+}
+#validate_crn_btn
+{
+     background: #013567;
+    color: white;
+}
+#capture_img_btn_clearcrn {
+    background: #013567;
+    color: white;
+    width: 40%;
+}
+
+#capture_img_btn:disabled {
+    background: #dddddd;
+    color: black;
+}
+
+#capture_img_btn_verify:disabled {
+    background: #dddddd;
+    color: black;
+}
+
+.align_center {
+    text-align: center;
+    cursor: pointer;
+}
+
+.json_td_length {
+    min-width: 320px;
+    margin-bottom: 0px;
+    font-size: 10px;
+}
+
+.text_font {
+    font-size: 12px;
+}
+#SecondsUntilExpire {
+    background-color: yellow;
+    display: none;
+}
+#okay_btn {
+    background: #013567;
+    color: white;
+}
+.add_new_btn
+{
+    border-radius: 25px;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+.kotak_sub_header
+{
+    background: #f3f3f3;
+}
+.tab_active
+{
+    background-color: #013567;
+    border-radius: 25px;
+}
+.breadcrumb_btn
+{
+    border-radius: 25px;
+    color: black;
+    background: #cccccc;
+}
+.body_bg
+{
+    background: #ffffff;
+}
+.crn_link
+{
+    cursor: pointer;
+    color: red;
+    font-weight: bolder;
+    background: transparent;
+    padding-left: 0px;
+}
+.gesture_link
+{
+    cursor: pointer;
+    font-weight: bolder;
+    background: transparent;
+    padding-left: 0px;
+}
+.facearm_modal_header
+{
+    background-color: #013567;
+    color: #ffffff;
+    border-bottom: 1px solid #013567; 
+    border-top-left-radius: 0rem; 
+    border-top-right-radius: 0rem;
+}
+.facearm_modal_content
+{
+    border: 2px solid #013567;
+    
+}
+.modal_close_btn
+{
+    color:#ffffff;
+}
+.modal_close_btn:hover
+{
+    color:#ffffff;
+}
+.approve_btn
+{
+    background: red;
+    color:white;
+    border:solid 1px red;
+}
+.reject_btn
+{
+    background: white;
+    color:red;
+    border:solid 1px red;
+}
+.add_page_header
+{
+    padding: 25px 42px 15px;
+}
+/*toggle button css*/
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: red;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #013567;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+#OpenImgUpload
+{
+cursor: pointer;
+}
+
+#add_gesture_management_msg
+{
+    text-align: center;
+    font-size: 13px;
+}
+#gesture_label {
+    text-align: left;
+    font-size: 13px;
+}
+.login_btn {
+    background: red;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 600;
+    width: 80%;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 45px;
+}
+.login_btn:hover
+{
+  background: red;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 600;
+  width:80%;
+  text-align:center; 
+  font-size: 14px;
+  margin-top: 45px;
+ }
+.forget_password_link
+{
+  text-align: center;
+  margin-top: 30px;
+}
+.forget_password_link:hover
+{
+  color: #f3f3f3;
+  text-align: center;
+}
+.dashboard_card
+{
+  margin-top: -55px;
+  padding-left: 25px;
+}
+.dashboard_card_bottom
+{
+  padding-left: 25px;
+  width: 95%;
+}
+.dashboard_card_right
+{
+padding-right: 160px;
+}
+.text_black
+{
+  color:black;
+}
+.text_blue
+{
+  color:#013567;
+}
+.f_s_19
+{
+ font-size: 19px !important;
+}
+.vl {
+  border-left: 1px solid #aab0aa;
+  height: 50px;
+}
+.reg_img
+{
+  cursor: pointer;
+}
+@media screen and (max-width: 767px) {
+.login_right_side_background
+{
+   /* The image used */
+  background-image: url("../images/ezgif-4-52e17310f8d0.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: inherit;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 265px;
+}
+.total_Card
+{
+  margin-left: 0px !important;
+}
+}
+@media screen and (max-width: 411px) {
+    .user_image_width {
+        width: 44%;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .user_image_width {
+        width: 36%;
+    }
+}

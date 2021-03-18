@@ -1,0 +1,402 @@
+﻿@using KMBLNetNbanking;
+@model dynamic
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Kotak Mahindra Bank">
+    <meta name="keywords" content="Kotak Mahindra Bank">
+    <title>Kotak Mahindra Bank</title>
+    <!-- Site favicon -->
+    <link rel='shortcut icon' type='image/x-icon' href='~/Audit_assets/images/kotak_favicon.ico' />
+    <!-- /site favicon -->
+    <!-- Font Material stylesheet -->
+    <link href="~/Audit_assets/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css" rel="stylesheet" />
+    
+    <!-- Bootstrap stylesheet -->
+    <link rel="stylesheet" href="~/Audit_assets/css/jumbo-bootstrap.css">
+    
+    <!-- Perfect Scrollbar stylesheet -->
+    <link href="~/Audit_assets/node_modules/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet" />
+    
+    <!-- kotak-core stylesheet -->
+    <link href="~/Audit_assets/css/kotak-core.min.css" rel="stylesheet" />
+   
+    <!-- Color-Theme stylesheet -->
+    <link href="~/Audit_assets/css/theme-dark-indigo.css" rel="stylesheet" />
+    
+    <!-- Custom stylesheet -->
+    <link href="~/Audit_assets/css/user_style.css" rel="stylesheet" />
+    
+</head>
+<body id="body" data-theme="dark-indigo">
+
+    <!-- Loader Backdrop -->
+    <div class="loader-backdrop">
+        <!-- Loader -->
+        <div class="loader">
+            <svg class="circular" viewBox="25 25 50 50">
+                <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"></circle>
+            </svg>
+        </div>
+        <!-- /loader-->
+    </div>
+    <!-- loader backdrop -->
+    <!-- Page container -->
+    <div class="gx-container">
+        <!-- Page Sidebar -->
+        <div id="menu" class="side-nav gx-sidebar">
+            <div class="navbar-expand-lg">
+                <!-- Sidebar header  -->
+                <div class="sidebar-header">
+                    <div class="user-profile">
+                        <img class="img-responsive logo_side_bar" alt="Kotak_Logo" src="~/Audit_assets/images/logo_side_bar.png">
+                    </div>
+                </div>
+                <!-- /sidebar header -->
+                <!-- Main navigation -->
+                <div id="main-menu" class="main-menu navbar-collapse collapse">
+                    <ul class="nav-menu">                        
+                        <li class="menu no-arrow">
+                            <a href="/Home/Dashboard/">
+                                <span class="nav-text">Dashboard Success Report</span>
+                            </a>
+                        </li>
+                        <li class="menu no-arrow">
+                            <a href="/Home/Dashboard_Failure/">
+                                <span class="nav-text">Dashboard Failure Report</span>
+                            </a>
+                        </li>
+                        <li class="menu no-arrow selected">
+                            <a href="/Home/Index/">
+                                <span class="nav-text">Audit Log</span>
+                            </a>
+                        </li>
+                        <li class="menu no-arrow">
+                            <a href="/Home/Clearcrn/">
+                                <span class="nav-text">Clear CRN</span>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <!-- /main navigation -->
+            </div>
+        </div>
+        <!-- /page sidebar -->
+        <!-- Main Container -->
+        <div class="gx-main-container">
+            <!-- Main Header -->
+            <header class="main-header">
+                <div class="gx-toolbar">
+                    <div class="sidebar-mobile-menu d-block d-lg-none">
+                        <a class="gx-menu-icon menu-toggle" href="#menu">
+                            <span class="menu-icon"></span>
+                        </a>
+                    </div>
+                    
+                    <div class="search-bar right-side-icon bg-transparent d-none d-sm-block">                       
+                    </div>
+                    <ul class="quick-menu header-notifications ml-auto">
+                        
+                        <li class="dropdown">
+                            <a href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" class="d-inline-block" aria-expanded="true">
+                                <div class="user-thumb">
+                                    <img alt="Domnic Brown" src="~/Audit_assets/images/domnic-brown.jpg"
+                                         class="rounded-circle size-40 user-avatar">
+                                </div>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right" data-placement="bottom-end" data-x-out-of-boundaries="">
+                                <div class="dropdown-menu-perfectscrollbar1">
+                                    <div class="messages-list">
+                                        <ul class="list-unstyled">
+                                            <li class="media">
+                                                <div class="user-thumb">
+                                                    <i class="fa fa-lock fa_color"></i>
+                                                </div>
+                                                <div class="media-body">
+                                                    <div class="d-flex justify-content-between align-items-center">
+                                                        <h4 class="text-capitalize user-name mb-0">
+                                                            <button id="logout_btn">Logout</button>
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </header>
+            <!-- /main header -->
+            <!-- Main Content -->
+            <div class="kotak-main-content">
+                <div class="gx-wrapper">
+                    <div class="animated slideInUpTiny animation-duration-3">
+                        <!--Audit log Breadcrumbs start-->
+                        <div class="page-heading d-sm-flex justify-content-sm-between align-items-sm-center">
+                            <h2 class="title mb-3 mb-sm-0">Audit Log</h2>
+                            <nav class="mb-0 breadcrumb">
+                                <a href="/Home/Dashboard" class="breadcrumb-item">Home</a>
+                                <a href="/Home/Index" class="breadcrumb-item">Audit Log</a>
+                            </nav>
+                        </div>
+                        <!--Rest of records Count-->
+                        <input type="hidden" id="total_records_count" name="total_records_count" value="@ViewBag.RestOfRecords" />
+                        <input type="hidden" id="first_offset_value" name="first_offset_value" value="@ViewBag.v" />
+                        <input type="hidden" id="crn_value" name="crn_value" value="@ViewBag.cf" />
+                        <input type="hidden" id="event_value" name="event_value" value="@ViewBag.ef" />
+                        <input type="hidden" id="status_value" name="status_value" value="@ViewBag.sf" />
+                        <input type="hidden" id="gate_value" name="gate_value" value="@ViewBag.gf" />
+                        <input type="hidden" id="from_date_value" name="from_date_value" value="@ViewBag.f" />
+                        <input type="hidden" id="to_date_value" name="to_date_value" value="@ViewBag.t" />
+                        <input type="hidden" id="version_value" name="version_value" value="@ViewBag.version" />
+
+                        <div class="row page_header">
+                            <div class="offset-md-6 col-md-3 offset-sm-6 col-sm-3">
+                                <button type="button" class="btn btn-danger" style="padding:3px 8px;width:100%;" id="clear_audit_log">Clear Audit Log</button>
+                            </div>
+                            <div class="col-md-3 col-sm-3">
+                                <button type="button" class="btn btn-primary" style="padding:3px 8px;width:100%;" onclick="window.location.href= '/Home/Index';">Back to Registration</button>
+                            </div>
+                        </div>
+
+                        <!--Filter div start-->
+                        <div class="row page_header">
+                            <div class="col-xl-12 col-sm-12 col-12">
+                                <div class="shadow border-0 card" style="margin-bottom:5px;">
+                                    <div class="card-header bg-primary text-white card_pointer" style="padding: 0.2rem 1.25rem;" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Filters</div>
+                                    <div class="collapse" id="collapseExample">
+                                        <div class="card-body" style="padding: 0.5rem;">
+                                            <form action="@Url.Action("Index")" method="POST">
+                                                <div class="row">
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">CRN</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <input type="text" class="text_font form-control" id="cf" name="cf" placeholder="Enter CRN" maxlength="20">
+                                                    </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">Events</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <select class="text_font form-control" id="events_filter" name="ef">
+                                                            <option selected disabled>Select Events</option>
+                                                            @foreach (var med in Model.MasterEventsFetch)
+                                                            {
+                                                                <option value="@med.EVENT_ID">@med.EVENT_NAME</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">Status</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <select class="text_font form-control" id="status_filter" name="sf">
+                                                            <option selected disabled>Select Status</option>
+                                                            @foreach (var msd in Model.MasterStatusFetch)
+                                                            {
+                                                                <option value="@msd.status_id">@msd.status_name</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">Version</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <select class="text_font form-control" id="version_filter" name="version">
+                                                            <option selected disabled>Select Version</option>
+                                                            @foreach (var ver in Model.Versions)
+                                                            {
+                                                                <option value="@ver">@ver</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-md-12 col-sm-12 col-lg-12">
+                                                        <label class="date_range_label">Date Range</label>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">From Date</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <input type="date" class="text_font form-control" id="from_date_filter" name="f" onchange="FDate('from_date_filter')">
+                                                    </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">To Date</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <input type="date" class="text_font form-control" id="to_date_filter" name="t" onchange="TDate('to_date_filter')">
+                                                    </div>
+                                                    <div class="col-md-1 col-sm-1 col-lg-1">
+                                                        <label class="control-label">Gate</label>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-2 col-lg-2">
+                                                        <select class="text_font form-control" id="gate_filter" name="gf">
+                                                            <option selected disabled>Select Gate</option>
+                                                            @foreach (var mgf in Model.MasterGateFetch)
+                                                            {
+                                                                <option value="@mgf.GATE_NUMBER">Gate @mgf.GATE_NUMBER</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-md-3 col-sm-3 col-lg-3">
+                                                        <button type="submit" class="btn btn-primary" style="background:#013567;">Search</button>
+                                                        <button type="button" class="btn btn-primary" style="background:#013567;" id="reset_btn">Reset</button>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-md-9 col-sm-9 col-lg-9">
+                                                        <center><p id="filter_date_err_msg"></p></center>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!--Filter div end-->
+
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                <div class="gx-card">
+                                    <div class="gx-card-body">
+
+                                        <div class="table-responsive">
+
+                                            <table id="audit_log_table" class="table table-responsive table-bordered table-hover dataTables-example">
+                                                <thead>
+                                                    <tr>
+                                                        <th style="visibility: hidden;"></th>
+                                                        <th>CRN</th>
+                                                        <th>Event</th>
+                                                        <th>Version</th>
+                                                        <th>Transaction Status</th>
+                                                        <th>Gate Failure</th>
+                                                        <th>Score</th>
+                                                        <th>Channel</th>
+                                                        <th>Device Details</th>
+                                                        <th>Date</th>
+                                                    </tr>
+                                                </thead>
+
+                                                @if (Model.AuditLogFetch.Count > 0)
+                                                {
+                                                    foreach (var ad in Model.AuditLogFetch)
+                                                    {
+                                                <tr class="odd" id="@ad.AuditID">
+                                                    <td class="expand_arrow details-control offset_class" id="@ad.AuditID" expand_audit_id="@ad.ParentTransactionID" get_event_name="@ad.EventName"><span id="arrow_@ad.AuditID"><i class="fa fa-angle-right" aria-hidden="true"></i></span></td>
+                                                    <td>@ad.CRN</td>
+                                                    <td>
+                                                        @ad.EventName
+                                                    </td>
+                                                    <td>@ad.Version</td>
+                                                    <td>@ad.StatusName</td>
+                                                    <td>
+                                                        @if (ad.StatusName == "Failure")
+                                                        {
+                                                            @ad.GateNumber
+                                                        }
+                                                    </td>
+                                                    <td>
+                                                        @if (ad.EventName == "Verification")
+                                                        {
+                                                            @ad.Score
+                                                        }
+                                                    </td>
+                                                    <td>@ad.ChannelName</td>
+                                                    <td>@ad.DeviceDetails</td>
+                                                    <td>@ad.CreatedOn.AddMinutes(330)</td>
+                                                </tr>
+                                                        <tr class="even" id="even_@ad.AuditID">
+                                                            <td style="visibility:hidden;"></td>
+                                                            <td colspan="8">
+                                                                <div class="container-fluid">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12 col-lg-12 col-xs-12 col-sm-12">
+                                                                            <table class="table table-hover" style="border:hidden;" id="even_sub_@ad.AuditID">
+                                                                                <thead>
+                                                                                    <tr>
+                                                                                        <td><p class="expand_header">User Image</p></td>
+                                                                                        <td><p class="expand_header">Gate #</p></td>
+                                                                                        <td><p class="expand_header">JSON</p></td>
+                                                                                        <td><p class="expand_header">Status</p></td>
+                                                                                    </tr>
+                                                                                </thead>
+                                                                            </table>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    }
+
+                                                }
+                                                else
+                                                {
+                                                    <tr><td colspan="9"><p style="text-align: center;">No data available</p></td></tr>
+                                                }
+
+                                            </table>
+                                            @if (Model.AuditLogFetch.Count > 0)
+                                            {
+                                                <div class="pull-left">
+                                                    <p id="showing_content">Showing @Model.AuditLogFetch.Count of <span id="total_records_showing"></span>Records</p>
+                                                </div>
+                                                <nav aria-label="Page navigation example">
+                                                    <ul class="pagination pull-right ul_list" id="pagination_ul"></ul>
+                                                </nav>
+                                            }
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/gx-wrapper-->
+                <div id="alert_popup_div"></div>
+                <!-- Footer -->
+                <footer class="gx-footer page_header">
+                    <div class="d-flex flex-row justify-content-between">
+                        <p> Copyright Kotak Mahindra Bank Limited. © 2019</p>
+                    </div>
+                </footer>
+                <!-- /footer -->
+            </div>
+            <!-- /main content -->
+        </div>
+        <!-- /main container -->
+    </div>
+    <!-- /page container -->
+    <!-- Menu Backdrop -->
+    <div class="menu-backdrop fade"></div>
+    <!-- /menu backdrop -->
+    <!--Load JQuery-->
+    <script src="~/Audit_assets/node_modules/jquery/dist/jquery.min.js"></script>
+    <!--Bootstrap JQuery-->
+    <script src="~/Audit_assets/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!--Perfect Scrollbar JQuery-->
+    <script src="~/Audit_assets/node_modules/perfect-scrollbar/dist/perfect-scrollbar.min.js"></script>
+    <!--Big Slide JQuery-->
+    <script src="~/Audit_assets/node_modules/bigslide/dist/bigSlide.min.js"></script>
+    <!--Over all Page JQuery-->
+    <script src="~/Audit_assets/js/audit_log_scripts.js"></script>
+    <!--Custom JQuery-->
+    <script src="~/Audit_assets/js/functions.js"></script>
+    <!--Pagination Scripts-->
+    <script src="~/Audit_assets/js/kotak_pagination.js"></script>
+    <!--JS Common functions-->
+    <script src="~/Audit_assets/js/js_common_functions.js"></script>
+</body>
+</html>

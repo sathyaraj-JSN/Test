@@ -1,0 +1,934 @@
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\DataAccessHandler.dll.config
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\DataAccessHandler.dll
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\DataAccessHandler.pdb
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\Oracle.ManagedDataAccess.dll
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.dll
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\System.Data.Common.dll
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\System.Security.AccessControl.dll
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\System.Security.Permissions.dll
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\System.Security.Principal.Windows.dll
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.xml
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\System.Security.AccessControl.xml
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\System.Security.Permissions.xml
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\bin\Release\System.Security.Principal.Windows.xml
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\obj\Release\DataAccessHandler.csprojAssemblyReference.cache
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CoreCompileInputs.cache
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CopyComplete
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\obj\Release\DataAccessHandler.dll
+G:\KOTAK\KOTAK_MainApps\Kotak_Iteration1\DataAccessHandler\obj\Release\DataAccessHandler.pdb
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\DataAccessHandler.dll.config
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\DataAccessHandler.dll
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\DataAccessHandler.pdb
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\Oracle.ManagedDataAccess.dll
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.dll
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\System.Data.Common.dll
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\System.Security.AccessControl.dll
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\System.Security.Permissions.dll
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\System.Security.Principal.Windows.dll
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.xml
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\System.Security.AccessControl.xml
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\System.Security.Permissions.xml
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\bin\Release\System.Security.Principal.Windows.xml
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\obj\Release\DataAccessHandler.csprojAssemblyReference.cache
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CoreCompileInputs.cache
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CopyComplete
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\obj\Release\DataAccessHandler.dll
+G:\KOTAK\KOTAK_MainApps\KotakWebApp\DataAccessHandler\obj\Release\DataAccessHandler.pdb
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\DataAccessHandler.dll.config
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\DataAccessHandler.dll
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\DataAccessHandler.pdb
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\Oracle.ManagedDataAccess.dll
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.dll
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\System.Data.Common.dll
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\System.Security.AccessControl.dll
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\System.Security.Permissions.dll
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\System.Security.Principal.Windows.dll
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.xml
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\System.Security.AccessControl.xml
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\System.Security.Permissions.xml
+G:\KOTAK\KotakWebApp\DataAccessHandler\bin\Release\System.Security.Principal.Windows.xml
+G:\KOTAK\KotakWebApp\DataAccessHandler\obj\Release\DataAccessHandler.csprojAssemblyReference.cache
+G:\KOTAK\KotakWebApp\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CoreCompileInputs.cache
+G:\KOTAK\KotakWebApp\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CopyComplete
+G:\KOTAK\KotakWebApp\DataAccessHandler\obj\Release\DataAccessHandler.dll
+G:\KOTAK\KotakWebApp\DataAccessHandler\obj\Release\DataAccessHandler.pdb
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\DataAccessHandler.dll.config
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\DataAccessHandler.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\DataAccessHandler.pdb
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\Oracle.ManagedDataAccess.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Data.Common.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.AccessControl.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Permissions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Principal.Windows.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.AccessControl.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Permissions.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Principal.Windows.xml
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\obj\Release\DataAccessHandler.csprojAssemblyReference.cache
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CoreCompileInputs.cache
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CopyComplete
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\obj\Release\DataAccessHandler.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\obj\Release\DataAccessHandler.pdb
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\Microsoft.Win32.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\netstandard.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.AppContext.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Collections.Concurrent.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Collections.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Collections.NonGeneric.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Collections.Specialized.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.ComponentModel.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.ComponentModel.EventBasedAsync.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.ComponentModel.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.ComponentModel.TypeConverter.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Console.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Diagnostics.Contracts.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Diagnostics.Debug.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Diagnostics.FileVersionInfo.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Diagnostics.Process.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Diagnostics.StackTrace.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Diagnostics.Tools.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Diagnostics.TraceSource.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Diagnostics.Tracing.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Drawing.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Dynamic.Runtime.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Globalization.Calendars.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Globalization.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Globalization.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.Compression.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.Compression.ZipFile.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.FileSystem.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.FileSystem.DriveInfo.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.FileSystem.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.FileSystem.Watcher.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.IsolatedStorage.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.MemoryMappedFiles.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.Pipes.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.IO.UnmanagedMemoryStream.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Linq.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Linq.Expressions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Linq.Parallel.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Linq.Queryable.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.Http.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.NameResolution.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.NetworkInformation.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.Ping.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.Requests.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.Security.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.Sockets.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.WebHeaderCollection.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.WebSockets.Client.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Net.WebSockets.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.ObjectModel.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Reflection.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Reflection.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Reflection.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Resources.Reader.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Resources.ResourceManager.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Resources.Writer.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.Handles.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.InteropServices.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.Numerics.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.Serialization.Formatters.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.Serialization.Json.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.Serialization.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Runtime.Serialization.Xml.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Claims.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Cryptography.Algorithms.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Cryptography.Csp.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Cryptography.Encoding.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Cryptography.Primitives.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Cryptography.X509Certificates.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.Principal.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Security.SecureString.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Text.Encoding.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Text.Encoding.Extensions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Text.RegularExpressions.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Threading.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Threading.Overlapped.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Threading.Tasks.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Threading.Tasks.Parallel.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Threading.Thread.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Threading.ThreadPool.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Threading.Timer.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.ValueTuple.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Xml.ReaderWriter.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Xml.XDocument.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Xml.XmlDocument.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Xml.XmlSerializer.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Xml.XPath.dll
+G:\KOTAK\KOTAK_MainApps\Staging\Staging\KotakWebApp_Staging\DataAccessHandler\bin\Release\System.Xml.XPath.XDocument.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\DataAccessHandler.dll.config
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\DataAccessHandler.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\DataAccessHandler.pdb
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\Microsoft.Win32.Primitives.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\netstandard.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.AppContext.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Collections.Concurrent.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Collections.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Collections.NonGeneric.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Collections.Specialized.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.ComponentModel.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.ComponentModel.EventBasedAsync.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.ComponentModel.Primitives.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.ComponentModel.TypeConverter.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Console.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Data.Common.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Diagnostics.Contracts.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Diagnostics.Debug.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Diagnostics.FileVersionInfo.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Diagnostics.Process.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Diagnostics.StackTrace.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Diagnostics.Tools.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Diagnostics.TraceSource.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Diagnostics.Tracing.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Drawing.Primitives.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Dynamic.Runtime.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Globalization.Calendars.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Globalization.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Globalization.Extensions.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.Compression.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.Compression.ZipFile.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.FileSystem.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.FileSystem.DriveInfo.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.FileSystem.Primitives.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.FileSystem.Watcher.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.IsolatedStorage.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.MemoryMappedFiles.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.Pipes.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.IO.UnmanagedMemoryStream.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Linq.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Linq.Expressions.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Linq.Parallel.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Linq.Queryable.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.Http.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.NameResolution.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.NetworkInformation.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.Ping.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.Primitives.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.Requests.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.Security.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.Sockets.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.WebHeaderCollection.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.WebSockets.Client.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Net.WebSockets.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.ObjectModel.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Reflection.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Reflection.Extensions.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Reflection.Primitives.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Resources.Reader.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Resources.ResourceManager.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Resources.Writer.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.Extensions.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.Handles.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.InteropServices.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.Numerics.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.Serialization.Formatters.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.Serialization.Json.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.Serialization.Primitives.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Runtime.Serialization.Xml.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Claims.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Cryptography.Algorithms.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Cryptography.Csp.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Cryptography.Encoding.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Cryptography.Primitives.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Cryptography.X509Certificates.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Principal.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.SecureString.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Text.Encoding.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Text.Encoding.Extensions.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Text.RegularExpressions.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Threading.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Threading.Overlapped.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Threading.Tasks.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Threading.Tasks.Parallel.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Threading.Thread.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Threading.ThreadPool.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Threading.Timer.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.ValueTuple.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Xml.ReaderWriter.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Xml.XDocument.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Xml.XmlDocument.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Xml.XmlSerializer.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Xml.XPath.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Xml.XPath.XDocument.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\Oracle.ManagedDataAccess.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.AccessControl.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Permissions.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Principal.Windows.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.xml
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.AccessControl.xml
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Permissions.xml
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\bin\Release\System.Security.Principal.Windows.xml
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\obj\Release\DataAccessHandler.csprojAssemblyReference.cache
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CoreCompileInputs.cache
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CopyComplete
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\obj\Release\DataAccessHandler.dll
+G:\Kotak_New_Approach\KotakWebApp_New\DataAccessHandler\obj\Release\DataAccessHandler.pdb
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\DataAccessHandler.dll.config
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\DataAccessHandler.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\DataAccessHandler.pdb
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\Oracle.ManagedDataAccess.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Data.Common.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.AccessControl.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Permissions.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Principal.Windows.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.AccessControl.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Permissions.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Principal.Windows.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\obj\Release\DataAccessHandler.csprojAssemblyReference.cache
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CoreCompileInputs.cache
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CopyComplete
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\obj\Release\DataAccessHandler.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\obj\Release\DataAccessHandler.pdb
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\Microsoft.Win32.Primitives.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\netstandard.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.AppContext.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Collections.Concurrent.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Collections.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Collections.NonGeneric.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Collections.Specialized.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.ComponentModel.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.ComponentModel.EventBasedAsync.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.ComponentModel.Primitives.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.ComponentModel.TypeConverter.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Console.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Diagnostics.Contracts.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Diagnostics.Debug.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Diagnostics.FileVersionInfo.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Diagnostics.Process.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Diagnostics.StackTrace.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Diagnostics.Tools.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Diagnostics.TraceSource.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Diagnostics.Tracing.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Drawing.Primitives.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Dynamic.Runtime.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Globalization.Calendars.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Globalization.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Globalization.Extensions.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.Compression.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.Compression.ZipFile.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.FileSystem.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.FileSystem.DriveInfo.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.FileSystem.Primitives.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.FileSystem.Watcher.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.IsolatedStorage.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.MemoryMappedFiles.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.Pipes.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.IO.UnmanagedMemoryStream.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Linq.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Linq.Expressions.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Linq.Parallel.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Linq.Queryable.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.Http.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.NameResolution.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.NetworkInformation.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.Ping.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.Primitives.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.Requests.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.Security.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.Sockets.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.WebHeaderCollection.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.WebSockets.Client.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Net.WebSockets.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.ObjectModel.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Reflection.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Reflection.Extensions.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Reflection.Primitives.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Resources.Reader.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Resources.ResourceManager.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Resources.Writer.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.Extensions.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.Handles.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.InteropServices.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.Numerics.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.Serialization.Formatters.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.Serialization.Json.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.Serialization.Primitives.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Runtime.Serialization.Xml.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Claims.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Cryptography.Algorithms.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Cryptography.Csp.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Cryptography.Encoding.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Cryptography.Primitives.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Cryptography.X509Certificates.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.Principal.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Security.SecureString.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Text.Encoding.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Text.Encoding.Extensions.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Text.RegularExpressions.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Threading.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Threading.Overlapped.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Threading.Tasks.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Threading.Tasks.Parallel.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Threading.Thread.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Threading.ThreadPool.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Threading.Timer.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.ValueTuple.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Xml.ReaderWriter.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Xml.XDocument.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Xml.XmlDocument.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Xml.XmlSerializer.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Xml.XPath.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Xml.XPath.XDocument.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\Crc32C.NET.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\DnsClient.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\MongoDB.Bson.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\MongoDB.Driver.Core.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\MongoDB.Driver.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\MongoDB.Driver.GridFS.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\SharpCompress.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\Snappy.NET.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Buffers.dll
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\Crc32C.NET.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\DnsClient.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\MongoDB.Bson.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\MongoDB.Driver.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\MongoDB.Driver.Core.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\MongoDB.Driver.GridFS.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\Snappy.NET.xml
+E:\Vignesh G Drive Dont Delete\Kotak\KotakAdmin_Iteration_1-28-10-2019\KotakAdmin_Iteration_1-16-10-2019\DataAccessHandler\bin\Release\System.Buffers.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\DataAccessHandler.dll.config
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\DataAccessHandler.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\DataAccessHandler.pdb
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\Microsoft.Win32.Primitives.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\netstandard.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.AppContext.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Collections.Concurrent.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Collections.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Collections.NonGeneric.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Collections.Specialized.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.ComponentModel.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.ComponentModel.EventBasedAsync.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.ComponentModel.Primitives.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.ComponentModel.TypeConverter.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Console.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Data.Common.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Diagnostics.Contracts.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Diagnostics.Debug.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Diagnostics.FileVersionInfo.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Diagnostics.Process.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Diagnostics.StackTrace.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Diagnostics.Tools.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Diagnostics.TraceSource.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Diagnostics.Tracing.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Drawing.Primitives.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Dynamic.Runtime.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Globalization.Calendars.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Globalization.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Globalization.Extensions.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.Compression.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.Compression.ZipFile.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.FileSystem.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.FileSystem.DriveInfo.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.FileSystem.Primitives.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.FileSystem.Watcher.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.IsolatedStorage.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.MemoryMappedFiles.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.Pipes.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.IO.UnmanagedMemoryStream.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Linq.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Linq.Expressions.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Linq.Parallel.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Linq.Queryable.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.Http.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.NameResolution.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.NetworkInformation.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.Ping.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.Primitives.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.Requests.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.Security.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.Sockets.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.WebHeaderCollection.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.WebSockets.Client.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Net.WebSockets.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.ObjectModel.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Reflection.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Reflection.Extensions.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Reflection.Primitives.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Resources.Reader.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Resources.ResourceManager.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Resources.Writer.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.Extensions.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.Handles.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.InteropServices.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.Numerics.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.Serialization.Formatters.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.Serialization.Json.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.Serialization.Primitives.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Runtime.Serialization.Xml.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Claims.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Cryptography.Algorithms.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Cryptography.Csp.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Cryptography.Encoding.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Cryptography.Primitives.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Cryptography.X509Certificates.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Principal.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.SecureString.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Text.Encoding.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Text.Encoding.Extensions.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Text.RegularExpressions.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Threading.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Threading.Overlapped.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Threading.Tasks.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Threading.Tasks.Parallel.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Threading.Thread.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Threading.ThreadPool.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Threading.Timer.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.ValueTuple.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Xml.ReaderWriter.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Xml.XDocument.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Xml.XmlDocument.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Xml.XmlSerializer.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Xml.XPath.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Xml.XPath.XDocument.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\Crc32C.NET.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\DnsClient.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\MongoDB.Bson.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\MongoDB.Driver.Core.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\MongoDB.Driver.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\MongoDB.Driver.GridFS.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\Oracle.ManagedDataAccess.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\SharpCompress.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\Snappy.NET.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Buffers.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.AccessControl.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Permissions.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Principal.Windows.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\Crc32C.NET.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\DnsClient.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\MongoDB.Bson.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\MongoDB.Driver.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\MongoDB.Driver.Core.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\MongoDB.Driver.GridFS.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\Snappy.NET.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Buffers.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.AccessControl.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Permissions.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\System.Security.Principal.Windows.xml
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\obj\Release\DataAccessHandler.csprojAssemblyReference.cache
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CoreCompileInputs.cache
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CopyComplete
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\obj\Release\DataAccessHandler.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\obj\Release\DataAccessHandler.pdb
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\RestSharp.dll
+E:\Kotak\Kotak Admin App\KotakAdmin_Iteration_1-Client-UI\DataAccessHandler\bin\Release\RestSharp.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\DataAccessHandler.dll.config
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\DataAccessHandler.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\DataAccessHandler.pdb
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\Microsoft.Win32.Primitives.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\netstandard.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.AppContext.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.Concurrent.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.NonGeneric.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.Specialized.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.EventBasedAsync.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.Primitives.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.TypeConverter.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Console.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Data.Common.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Contracts.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Debug.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.FileVersionInfo.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Process.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.StackTrace.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Tools.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.TraceSource.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Tracing.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Drawing.Primitives.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Dynamic.Runtime.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Globalization.Calendars.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Globalization.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Globalization.Extensions.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.Compression.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.Compression.ZipFile.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.DriveInfo.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.Primitives.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.Watcher.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.IsolatedStorage.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.MemoryMappedFiles.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.Pipes.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.UnmanagedMemoryStream.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.Expressions.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.Parallel.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.Queryable.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Http.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.NameResolution.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.NetworkInformation.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Ping.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Primitives.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Requests.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Security.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Sockets.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.WebHeaderCollection.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.WebSockets.Client.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.WebSockets.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ObjectModel.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Reflection.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Reflection.Extensions.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Reflection.Primitives.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Resources.Reader.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Resources.ResourceManager.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Resources.Writer.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Extensions.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Handles.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.InteropServices.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Numerics.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Formatters.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Json.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Primitives.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Xml.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Claims.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Csp.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Principal.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.SecureString.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Text.Encoding.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Text.Encoding.Extensions.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Text.RegularExpressions.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Overlapped.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Tasks.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Tasks.Parallel.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Thread.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.ThreadPool.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Timer.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ValueTuple.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.ReaderWriter.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XDocument.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XmlDocument.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XmlSerializer.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XPath.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XPath.XDocument.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\Crc32C.NET.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\DnsClient.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Bson.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.Core.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.GridFS.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\Oracle.ManagedDataAccess.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\RestSharp.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\SharpCompress.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\Snappy.NET.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Buffers.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.AccessControl.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Permissions.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Principal.Windows.dll
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\Crc32C.NET.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\DnsClient.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Bson.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.Core.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.GridFS.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\RestSharp.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\Snappy.NET.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Buffers.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.AccessControl.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Permissions.xml
+D:\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Principal.Windows.xml
+D:\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.csprojAssemblyReference.cache
+D:\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CoreCompileInputs.cache
+D:\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CopyComplete
+D:\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.dll
+D:\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.pdb
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\DataAccessHandler.dll.config
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\DataAccessHandler.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\DataAccessHandler.pdb
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\Microsoft.Win32.Primitives.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\netstandard.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.AppContext.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.Concurrent.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.NonGeneric.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.Specialized.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.EventBasedAsync.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.Primitives.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.TypeConverter.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Console.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Data.Common.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Contracts.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Debug.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.FileVersionInfo.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Process.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.StackTrace.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Tools.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.TraceSource.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Tracing.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Drawing.Primitives.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Dynamic.Runtime.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Globalization.Calendars.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Globalization.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Globalization.Extensions.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.Compression.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.Compression.ZipFile.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.DriveInfo.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.Primitives.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.Watcher.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.IsolatedStorage.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.MemoryMappedFiles.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.Pipes.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.UnmanagedMemoryStream.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.Expressions.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.Parallel.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.Queryable.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Http.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.NameResolution.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.NetworkInformation.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Ping.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Primitives.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Requests.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Security.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Sockets.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.WebHeaderCollection.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.WebSockets.Client.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.WebSockets.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ObjectModel.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Reflection.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Reflection.Extensions.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Reflection.Primitives.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Resources.Reader.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Resources.ResourceManager.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Resources.Writer.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Extensions.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Handles.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.InteropServices.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Numerics.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Formatters.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Json.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Primitives.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Xml.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Claims.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Csp.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Principal.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.SecureString.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Text.Encoding.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Text.Encoding.Extensions.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Text.RegularExpressions.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Overlapped.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Tasks.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Tasks.Parallel.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Thread.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.ThreadPool.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Timer.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ValueTuple.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.ReaderWriter.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XDocument.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XmlDocument.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XmlSerializer.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XPath.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XPath.XDocument.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\Crc32C.NET.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\DnsClient.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Bson.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.Core.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.GridFS.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\Oracle.ManagedDataAccess.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\SharpCompress.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\Snappy.NET.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Buffers.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.AccessControl.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Permissions.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Principal.Windows.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\Crc32C.NET.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\DnsClient.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Bson.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.Core.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.GridFS.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\Snappy.NET.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Buffers.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.AccessControl.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Permissions.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Principal.Windows.xml
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.csprojAssemblyReference.cache
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CoreCompileInputs.cache
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CopyComplete
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.dll
+D:\New Dashboard\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.pdb
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\DataAccessHandler.dll.config
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\DataAccessHandler.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\DataAccessHandler.pdb
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\Microsoft.Win32.Primitives.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\netstandard.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.AppContext.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.Concurrent.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.NonGeneric.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Collections.Specialized.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.EventBasedAsync.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.Primitives.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ComponentModel.TypeConverter.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Console.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Data.Common.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Contracts.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Debug.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.FileVersionInfo.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Process.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.StackTrace.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Tools.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.TraceSource.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Diagnostics.Tracing.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Drawing.Primitives.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Dynamic.Runtime.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Globalization.Calendars.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Globalization.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Globalization.Extensions.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.Compression.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.Compression.ZipFile.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.DriveInfo.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.Primitives.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.FileSystem.Watcher.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.IsolatedStorage.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.MemoryMappedFiles.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.Pipes.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.IO.UnmanagedMemoryStream.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.Expressions.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.Parallel.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Linq.Queryable.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Http.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.NameResolution.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.NetworkInformation.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Ping.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Primitives.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Requests.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Security.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.Sockets.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.WebHeaderCollection.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.WebSockets.Client.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Net.WebSockets.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ObjectModel.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Reflection.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Reflection.Extensions.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Reflection.Primitives.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Resources.Reader.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Resources.ResourceManager.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Resources.Writer.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Extensions.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Handles.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.InteropServices.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Numerics.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Formatters.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Json.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Primitives.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Runtime.Serialization.Xml.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Claims.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Algorithms.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Csp.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Encoding.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.Primitives.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Cryptography.X509Certificates.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Principal.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.SecureString.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Text.Encoding.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Text.Encoding.Extensions.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Text.RegularExpressions.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Overlapped.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Tasks.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Tasks.Parallel.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Thread.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.ThreadPool.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Threading.Timer.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.ValueTuple.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.ReaderWriter.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XDocument.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XmlDocument.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XmlSerializer.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XPath.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Xml.XPath.XDocument.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\Crc32C.NET.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\DnsClient.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Bson.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.Core.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.GridFS.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\Oracle.ManagedDataAccess.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\SharpCompress.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\Snappy.NET.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Buffers.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.AccessControl.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Permissions.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Principal.Windows.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\Crc32C.NET.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\DnsClient.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Bson.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.Core.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\MongoDB.Driver.GridFS.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\Snappy.NET.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Buffers.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Configuration.ConfigurationManager.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.AccessControl.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Permissions.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\bin\Release\System.Security.Principal.Windows.xml
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.csprojAssemblyReference.cache
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CoreCompileInputs.cache
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.csproj.CopyComplete
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.dll
+G:\KMBL_V2\KMBLAdminV2\KotakAdminAppMain\DataAccessHandler\obj\Release\DataAccessHandler.pdb
